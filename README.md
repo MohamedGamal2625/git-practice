@@ -1,5 +1,6 @@
 # git-practice
 Commands Practiced
+<ul>
 git init
 git status
 git add
@@ -11,3 +12,4 @@ git pull
 git branch -d <branch>
 git remote add origin <url>
 git remote -v
+</ul>
