@@ -12,4 +12,7 @@ Commands Practiced
 - git branch -d <branch>
 - git remote add origin <url>
 - git remote -v
-
+- git log main branchname // load old commits both
+- git diff main branchname //differances between branches
+- git merge branchname // merge current to branch
+- git pull origin main // pull latest changes
